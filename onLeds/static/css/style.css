@@ -1,0 +1,16 @@
+body {
+	background: #131313;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+button {
+	outline:none;
+	border: none;
+	padding: 10px 15px;
+	border-radius: 10px;
+	margin: 20px;
+}
